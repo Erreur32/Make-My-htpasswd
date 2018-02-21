@@ -1,5 +1,5 @@
 <?php
-$ch = curl_init("https://tools.echosystem.fr/Password/htaccess/version.txt");
+$ch = curl_init("https://tools.echosystem.fr/Password/htpasswd/version.txt");
 
 curl_setopt($ch, CURLOPT_NOBODY, true);
 curl_exec($ch);
@@ -10,7 +10,7 @@ curl_close($ch);
 ?>
 
 <?php
-define('REMOTE_VERSION', 'https://tools.echosystem.fr/Password/htaccess/version.txt');
+define('REMOTE_VERSION', 'https://tools.echosystem.fr/Password/htpasswd/version.txt');
 define('VERSION', '1.0.2');
 $script = file_get_contents(REMOTE_VERSION);
 $version = VERSION;
