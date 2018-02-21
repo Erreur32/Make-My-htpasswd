@@ -171,7 +171,7 @@ width:35%;
 <TABLE BORDER=0 CELLSPACING=10 CELLPADDING=20 ALIGN="center">
 <TR><div align="center"><em>Exemple Fichier .htaccess</em></div></TR>
 
-<TR><TD><h1>.htpasswd</h1></TD><TD><h1>.htacces</h1></TD></TR>
+<TR><TD><h1>.htpasswd</h1></TD><TD><h1>.htaccess</h1></TD></TR>
 <TR><TD>
 <div class="post-it2" WIDTH=100%>
 <?php 
