@@ -196,7 +196,7 @@ echo '<span style="color:black;" id="copyTarget">' . $login . ':' . $pass_crypte
 <?php
  ini_set("allow_url_fopen", "On");
  define('VERSION', '0.1');
- $script = file_get_contents('https://tools.echosystem.fr/Password/htaccess/version.txt');
+ $script = file_get_contents('https://tools.echosystem.fr/Password/htpasswd/version.txt');
  define('REMOTE_VERSION', $script);
 // echo REMOTE_VERSION;
  if(VERSION == REMOTE_VERSION) {
@@ -216,7 +216,7 @@ echo '<span style="color:black;" id="copyTarget">' . $login . ':' . $pass_crypte
 ?>
 
 <br />
-Script by <a href="https://erreur32.echosystem.fr">Erreur32</a> | Version:  <a href="https://tools.echosystem.fr/Password/htaccess/version.txt"><?php echo VERSION; ?></a> | <?php echo date('Y'); ?>
+Script by <a href="https://erreur32.echosystem.fr">Erreur32</a> | Version:  <a href="https://tools.echosystem.fr/Password/htpasswd/version.txt"><?php echo VERSION; ?></a> | <?php echo date('Y'); ?>
 </center>
 
 <script>
