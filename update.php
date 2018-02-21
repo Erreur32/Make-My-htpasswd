@@ -1,4 +1,8 @@
 <?php
+
+// tests to check UPDATE try to remplace file_get_contents with curl
+// to avoid a allow_url_fopen Apache limitaion
+
 $ch = curl_init("https://tools.echosystem.fr/Password/htpasswd/version.txt");
 
 curl_setopt($ch, CURLOPT_NOBODY, true);
@@ -8,6 +12,7 @@ $retcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 echo $retcode;
 curl_close($ch);
 ?>
+
 
 <?php
 define('REMOTE_VERSION', 'https://tools.echosystem.fr/Password/htpasswd/version.txt');
