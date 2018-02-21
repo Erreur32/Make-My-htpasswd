@@ -1,6 +1,7 @@
 # Make-My-htpasswd
 
 Script to create  htpasswd hash.
+Original repo. https://git.echosystem.fr/Erreur32/Make-My-htpasswd
 
 
 ##  TODO 
