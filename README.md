@@ -10,6 +10,7 @@ Original repo.   https://git.echosystem.fr/Erreur32/Make-My-htpasswd
  - Finish README ;)
  - Add credits and Sources.
  - Finish Update script Version.
+ - Fixer l'anglo french text ^^
 
 
 **********************************************************
