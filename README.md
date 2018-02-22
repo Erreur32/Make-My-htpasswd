@@ -25,7 +25,7 @@ Original repo.   https://git.echosystem.fr/Erreur32/Make-My-htpasswd
 
 ### Usefull Sources
 
- - https://clipboardjs.com/ use to copy with magic.
+ - https://clipboardjs.com/  copy with magic.
 
 
 
