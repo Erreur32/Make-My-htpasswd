@@ -21,7 +21,9 @@ Web Generator htpasswd hash to use with htaccess.
 
  - Finish README ;)
  - **Finish Update script Version**.
- - Fixer le mix anglo-french  (soit tout en anglais, soit tout en français, mais pas les deux...) ^^
+ 
+ - Fixer le mix anglo-french  
+  **Et oui le readme est en anglais et la page php en français ... ca va être fixé.**
 
 
 ### Usefull Sources
