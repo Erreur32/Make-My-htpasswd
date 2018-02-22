@@ -7,17 +7,12 @@ Original repo.   https://git.echosystem.fr/Erreur32/Make-My-htpasswd
 
 ## How to install
 
-- go to your web directory, 
+
 - git clone https://git.echosystem.fr/Erreur32/Make-My-htpasswd.git
  
-  *(maybe need to check file owner)   chown www-data /path/to/Make-My-htpasswd*
+ *(maybe need to check file owner)   chown www-data /path/to/Make-My-htpasswd*
 
 - check with your favorite browser. https://my.web.site/Make-My-htpasswd :)
-
-
-## Sources
-
- - https://clipboardjs.com/ use to copy with magic.
 
 
 ##  TODO 
@@ -26,6 +21,13 @@ Original repo.   https://git.echosystem.fr/Erreur32/Make-My-htpasswd
  - Add inspired Sources.
  - Finish Update script Version.
  - Fixer le mix anglo-french  (soit tout en anglais, soit tout en français, mais pas les deux...) ^^
+
+
+### Usefull Sources
+
+ - https://clipboardjs.com/ use to copy with magic.
+
+
 
 
 **********************************************************
