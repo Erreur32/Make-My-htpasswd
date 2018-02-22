@@ -28,10 +28,15 @@ Original repo.   https://git.echosystem.fr/Erreur32/Make-My-htpasswd
  - https://clipboardjs.com/  copy with magic.
 
 
+## DEMO 
+
+https://tools.echosystem.fr/Password/htpasswd/
 
 
 **********************************************************
-SCREEN
+
+## SCREEN
+
 
 
 ![](https://upfile.echosystem.fr/plugins/imageviewer/site/direct.php?s=2W1&/Screenshot-2018__tools_echosystem_fr.png)
