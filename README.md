@@ -12,7 +12,7 @@ Web Generator htpasswd hash to use with htaccess.
 
 
 - `git clone https://git.echosystem.fr/Erreur32/Make-My-htpasswd.git`
-- And check with your favorite browser. https://my.web.site/Make-My-htpasswd :)
+-  And check with your favorite browser. https://my.web.site/Make-My-htpasswd :)
 
 *(maybe need to check file owner)   chown www-data /path/to/Make-My-htpasswd*
 
