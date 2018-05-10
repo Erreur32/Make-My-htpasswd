@@ -103,8 +103,9 @@ width:35%;
 
 <body>
 <div class="site-content" id="content">
- <center> <H1>Crypteur de Mot de Passe pour les .Htaccess </H1></center>
- <center>
+ <center> <H1><a href="/">Make-My-htpasswd</a></H1></center>
+
+ <center>Crypteur de Mot de Passe pour les .Htaccess<br>
    <?php
 
       // Formulaire 
@@ -116,16 +117,19 @@ width:35%;
       //    $pass_crypte = md5($_POST['pass']); // On crypte le mot de passe
      $pass_crypte = password_hash($_POST["pass"], PASSWORD_BCRYPT);
      $passdecry = ' . $login . ":" . $pass_crypte.'; // on affiche le passwd
-     echo '<br><font size="5">Copier la ligne ci-dessous dans le fichier <b>.htpasswd</b></font><br /><br />';
+     echo '<br><br><font size="5">Copier la ligne ci-dessous dans le fichier <b>.htpasswd</b></font><br /><br />';
      if (!isset($login)) $login = 'joe'; 
      if (!isset($pass_crypte)) $pass_crypte = '$1$ndTfdTH2$2nTqNz5KiTfDzAsVhPSu2.';
      echo '<pre><code class="language-less">' . $login . ":" . $pass_crypte.'</code></pre>';
   ?>
 
  <section class="content-section content-section--paste" id="paste-section">
-        <h1>Paste it here</h1>
+        <h1>Coller ici (pour vérification)</h1><br>
         <div id="paste-content" contenteditable="true" style="color:black"></div>
  </section>
+<br><br><font size="5"><a href="/">Refresh</a></font><br />
+
+
  <?php
   }
   else // On n'a pas encore rempli le formulaire
