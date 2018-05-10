@@ -58,8 +58,8 @@ $ chown www-data -R /path/to/Make-My-htpasswd
 
 ## SCREEN
 
-![](https://git.echosystem.fr/Erreur32/Make-My-htpasswd/docs/make-my-htpasswd.png)
-![](https://git.echosystem.fr/Erreur32/Make-My-htpasswd/docs/make-my-htpasswd2.png)
+![](https://git.echosystem.fr/Erreur32/Make-My-htpasswd/raw/master/docs/make-my-htpasswd.png)
+![](https://git.echosystem.fr/Erreur32/Make-My-htpasswd/raw/master/docs/make-my-htpasswd2.png)
 
 
 
