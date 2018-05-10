@@ -24,11 +24,13 @@ Check now with your favorite browser. https://my.superweb.site/Make-My-htpasswd 
 -----
 
 
-*(maybe need to check file owner)*
+*(maybe need to check file owner/right)*
 
-**chown www-data -R /path/to/Make-My-htpasswd**
+```bash
 
+$ chown www-data -R /path/to/Make-My-htpasswd
 
+```
 
 -----
 
