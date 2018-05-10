@@ -19,9 +19,18 @@ $ git clone https://git.echosystem.fr/Erreur32/Make-My-htpasswd.git
 
 Check now with your favorite browser. https://my.superweb.site/Make-My-htpasswd !
 
-!!!! *(maybe need to check file owner)*
-!!!! 
-!!!!  **chown www-data -R /path/to/Make-My-htpasswd**
+
+
+-----
+
+
+*(maybe need to check file owner)*
+
+**chown www-data -R /path/to/Make-My-htpasswd**
+
+
+
+-----
 
 
 
