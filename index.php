@@ -193,6 +193,7 @@ echo '<span style="color:black;" id="copyTarget">' . $login . ':' . $pass_crypte
 </TABLE>
 
 <br />
+<!-- // en test 
 <?php
  ini_set("allow_url_fopen", "On");
  define('VERSION', '0.1');
@@ -214,9 +215,10 @@ echo '<span style="color:black;" id="copyTarget">' . $login . ':' . $pass_crypte
  echo "</div>";
 }
 ?>
+-->
 
 <br />
-Script by <a href="https://erreur32.echosystem.fr">Erreur32</a> | Version:  <a href="https://tools.echosystem.fr/Password/htpasswd/version.txt"><?php echo VERSION; ?></a> | <?php echo date('Y'); ?>
+Script by <a href="https://erreur32.echosystem.fr">Erreur32</a> | Version:  <a href="https://git.echosystem.fr/Erreur32/Make-My-htpasswd"><?php echo VERSION; ?></a> | <?php echo date('Y'); ?>
 </center>
 
 <script>
