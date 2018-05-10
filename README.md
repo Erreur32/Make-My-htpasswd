@@ -1,5 +1,7 @@
 # Make-My-htpasswd
-[TOC]
+
+Simple web page html to generate Htpasswd hash.
+
 
 > Original repo.   [https://git.echosystem.fr/Erreur32/Make-My-htpasswd](https://git.echosystem.fr/Erreur32/Make-My-htpasswd)
  
@@ -30,7 +32,7 @@ Check now with your favorite browser. https://my.superweb.site/Make-My-htpasswd 
 >  
 
 
-** Usefull Sources**
+**Usefull Sources**
 
  - https://clipboardjs.com/  copy with magic.
  - http://wpandsuch.com/create-a-post-it-note-with-css3/ 
@@ -45,26 +47,13 @@ Check now with your favorite browser. https://my.superweb.site/Make-My-htpasswd 
 
 ## SCREEN
 
-![](https://upfile.echosystem.fr/plugins/imageviewer/site/direct.php?s=2W1&/Screenshot-2018__tools_echosystem_fr.png)
-![](https://upfile.echosystem.fr/plugins/imageviewer/site/direct.php?s=5xh&/Screenshot-2018-2-21_https_tools_echosystem_fr.png)
-
-by 🅴🆁🆁🅴🆄🆁32
-
-
-<center>
-<div class="row">
-<div class="4u 12u$(mobile)">
-<img src="https://echosystem.fr/_img/1skull-50.png" alt="" width="42" height="41" />
-<br><a href="https://echosystem.fr/my-projects">My Projects</a>
-</div>
-</div>
-</center>
+![](https://echosystem.fr/user/pages/02.My-Projects/05.make-my-htpasswd/make-my-htpasswd.png)
+![](https://echosystem.fr/user/pages/02.My-Projects/05.make-my-htpasswd/make-my-htpasswd2.png)
 
 
 
 
-![](https://upfile.echosystem.fr/plugins/imageviewer/site/direct.php?s=2W1&/Screenshot-2018__tools_echosystem_fr.png)
-![](https://upfile.echosystem.fr/plugins/imageviewer/site/direct.php?s=5xh&/Screenshot-2018-2-21_https_tools_echosystem_fr.png)
+
 
 by 🅴🆁🆁🅴🆄🆁32
 
