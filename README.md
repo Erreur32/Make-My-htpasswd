@@ -2,6 +2,7 @@
 
 Simple web page html to generate Htpasswd hash.
 
+![https://blog.echosystem.fr/img/e4/contactechosystemfr.png](https://blog.echosystem.fr/img/e4/contactechosystemfr.png)
 
 > Original repo.   [https://git.echosystem.fr/Erreur32/Make-My-htpasswd](https://git.echosystem.fr/Erreur32/Make-My-htpasswd)
  
