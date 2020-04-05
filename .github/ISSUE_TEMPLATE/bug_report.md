@@ -1,6 +1,9 @@
 ---
-name: Bug report
+name: erreur32@echosystem.fr
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
